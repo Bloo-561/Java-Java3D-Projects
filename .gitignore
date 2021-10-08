@@ -75,3 +75,8 @@ nb-configuration.xml
 ##############################
 .DS_Store
 *.xmi
+*.prefs
+*.prefs
+*.xmi
+*.tree
+*.resources
